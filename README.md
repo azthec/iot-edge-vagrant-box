@@ -120,7 +120,7 @@ vagrant destroy
 
 ## Remove
 
-Destroy removes the VM but keeps the base image on disk, use remove to see installed images:
+Destroy removes the VM but keeps the base image on disk, use list to see installed images:
 
 ```
 vagrant box list
